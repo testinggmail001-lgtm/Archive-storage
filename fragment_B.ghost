@@ -1,0 +1,12 @@
+BLACKWATCH RECOVERY OBJECT
+HEADER=ECHO-04
+TYPE=TEXT
+EXTENSION_STATUS=ALTERED
+
+The original extension was stripped during acquisition.
+Restore the expected text extension before reading this object.
+
+AUTHENTICATION TOKEN:
+PANTHEON
+
+END OBJECT
